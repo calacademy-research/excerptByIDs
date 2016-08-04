@@ -14,9 +14,9 @@ excerptByIDs.go : Go source code
 
 #### How to compile
 
-$ git clone <git-repository-path>
-$ cd <git-repository-name>
-$ go build excerptByIDs.go
+$ git clone <git-repository-path>  
+$ cd <git-repository-name>  
+$ go build excerptByIDs.go  
 
 
 #### Usage
