@@ -5,21 +5,21 @@ records match one of the IDs in IDfile, which is a list of IDs separated by newl
 characters.
 
 
-#### Contents
+### Contents
 
 README.md : this README
 
 excerptByIDs.go : Go source code
 
 
-#### How to compile
+### How to compile
 
 $ git clone <git-repository-path>  
 $ cd <git-repository-name>  
 $ go build excerptByIDs.go  
 
 
-#### Usage
+### Usage
 
 $ excerptByIDs
 
@@ -40,6 +40,6 @@ Usage: excerptByIDs <IDfile>|- <PE_file_1> [<PE_file_2>] [-ext <output_suffix>] 
        -v option inverts meaning of a matched record. Records NOT in the IDs are output.
 
 
-#### Authorship
+### Authorship
 
 author: James Henderson, jhenderson@calacademy.org
