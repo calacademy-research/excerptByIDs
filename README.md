@@ -23,7 +23,7 @@ $ go build excerptByIDs.go
 
 $ excerptByIDs
 
-Usage: excerptByIDs <IDfile>|- <PE_file_1> [<PE_file_2>] [-ext <output_suffix>] [-v] [-mach] [-test]
+       Usage: excerptByIDs <IDfile>|- <PE_file_1> [<PE_file_2>] [-ext <output_suffix>] [-v] [-mach] [-test]
 
        Outputs records from the FastQ files that match one of the IDs in IDfile.
        (The same ID can be present more than once but is used only once.)
