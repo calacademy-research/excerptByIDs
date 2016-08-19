@@ -16,8 +16,8 @@ excerptByIDs.go : Go source code
   
 \#You will need Go tools.  
 \#If you do not have them, download and install Go tools as described here <https://golang.org/doc/install>  
-$ git clone <git-repository-path>  
-$ cd <git-repository-name>  
+$ git clone https://github.com/calacademy-research/excerptByIDs.git  
+$ cd excerptByIDs  
 $ go build excerptByIDs.go  
 
 
