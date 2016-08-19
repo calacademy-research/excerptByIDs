@@ -14,9 +14,9 @@ excerptByIDs.go : Go source code
 
 ### How to compile  
   
-\#We have provided an executable compiled for use on 64-bit Linux systems in each release.  
-\#If you need to compile the code for use on other architectures, you will need Go tools.  
-\#If you do not have them, download and install Go tools as described here <https://golang.org/doc/install>  
+\# We have provided an executable compiled for use on 64-bit Linux systems in each release.  
+\# If you need to compile the code for use on other architectures, you will need Go tools.  
+\# If you do not have them, download and install Go tools as described here <https://golang.org/doc/install>  
 $ git clone https://github.com/calacademy-research/excerptByIDs.git  
 $ cd excerptByIDs  
 $ go build excerptByIDs.go  
