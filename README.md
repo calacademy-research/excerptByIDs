@@ -12,8 +12,10 @@ README.md : this README
 excerptByIDs.go : Go source code
 
 
-### How to compile
-
+### How to compile  
+  
+\#You will need Go tools.  
+\#If you do not have them, download and install Go tools as described here <https://golang.org/doc/install>  
 $ git clone <git-repository-path>  
 $ cd <git-repository-name>  
 $ go build excerptByIDs.go  
