@@ -48,6 +48,6 @@ $ excerptByIDs
 code author: James Henderson, jhenderson@calacademy.org  
 README.md authors: Zachary R. Hanna, James Henderson  
 
-#### Version 1.0.1
+#### Version 1.0.2
 [![DOI](https://zenodo.org/badge/24128/calacademy-research/excerptByIDs.svg)](https://zenodo.org/badge/latestdoi/24128/calacademy-research/excerptByIDs)
   
