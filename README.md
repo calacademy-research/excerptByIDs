@@ -4,6 +4,7 @@ excerptByIDs is a tool to output records in a fastq or a pair of fastq files in 
 records match one of the IDs in IDfile, which is a list of IDs separated by newline
 characters.
 
+[![DOI](https://zenodo.org/badge/24128/calacademy-research/excerptByIDs.svg)](https://zenodo.org/badge/latestdoi/24128/calacademy-research/excerptByIDs)
 
 ### Contents
 
