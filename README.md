@@ -41,12 +41,13 @@ $ excerptByIDs
        -mach option includes the complete machine name in the ID (only needed if PE outputs combined).
        -v option inverts meaning of a matched record. Records NOT in the IDs are output.
 
+### Citing
 
-### Authorship
+#### Authorship
 
 code author: James Henderson, jhenderson@calacademy.org  
 README.md authors: Zachary R. Hanna, James Henderson  
 
-### Version 1.0.1
+#### Version 1.0.1
 [![DOI](https://zenodo.org/badge/24128/calacademy-research/excerptByIDs.svg)](https://zenodo.org/badge/latestdoi/24128/calacademy-research/excerptByIDs)
   
