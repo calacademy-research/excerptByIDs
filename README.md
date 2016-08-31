@@ -45,7 +45,7 @@ $ excerptByIDs
 
 #### Authorship
 
-code author: James B. Henderson, jhenderson@calacademy.org  
+Code author: James B. Henderson, jhenderson@calacademy.org  
 README.md authors: Zachary R. Hanna, James B. Henderson  
 
 #### Version 1.0.2
